@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91ed9a8a-aed3-466f-bcb8-550ef4b05893" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33L2nt97YsGqrcO5kPRzDBK59Oe" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Algoriza_Final_Project [clean].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.TestClass.TestLocators.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestClass.TestLocators1.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestClass.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestClass.navigateToDuckDuckGoAndAssertBrowserTitleIsDisplayedCorrectly.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenario.E2ETest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenario.TestCase.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenario.TestCase2.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenario.cleanEnvironment.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TestScenario.executor&quot;: &quot;Run&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sheri/IdeaProjects/Algoriza_Final_Project/src/test/java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sheri\IdeaProjects\Algoriza_Final_Project\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TestScenario">
+    <configuration name="TestScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algoriza_Final_Project" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.TestScenario" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScenario.E2ETest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algoriza_Final_Project" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.TestScenario" />
+      <option name="METHOD_NAME" value="E2ETest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScenario.TestCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algoriza_Final_Project" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.TestScenario" />
+      <option name="METHOD_NAME" value="TestCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScenario.TestCase2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algoriza_Final_Project" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.TestScenario" />
+      <option name="METHOD_NAME" value="TestCase2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScenario.cleanEnvironment" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Algoriza_Final_Project" />
+      <shortenClasspath name="ARGS_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testPackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testPackage" />
+      <option name="MAIN_CLASS_NAME" value="testPackage.TestScenario" />
+      <option name="METHOD_NAME" value="cleanEnvironment" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestScenario" />
+        <item itemvalue="TestNG.TestScenario.E2ETest" />
+        <item itemvalue="TestNG.TestScenario.cleanEnvironment" />
+        <item itemvalue="TestNG.TestScenario.TestCase" />
+        <item itemvalue="TestNG.TestScenario.TestCase2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ed9a8a-aed3-466f-bcb8-550ef4b05893" name="Changes" comment="" />
+      <created>1759082208336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759082208336</updated>
+    </task>
+    <servers />
+  </component>
+</project>
