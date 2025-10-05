@@ -21,9 +21,9 @@ public class TestScenario extends BaseTest {
         new TapItemsPage(getThreadDriver())
                 .selectItem(itemsData.getTestData("smartwatches.smart1.name"));
         new ItemDetailsPage(getThreadDriver())
-                .chooseConnectivity(itemsData.getTestData("smartwatches.smart1.connectivity"))
-                .chooseColor(itemsData.getTestData("smartwatches.smart1.color"))
-                .chooseSize(itemsData.getTestData("smartwatches.smart1.size"))
+                .addAllOptions(itemsData.getTestData("smartwatches.smart1.connectivity"),
+                        itemsData.getTestData("smartwatches.smart1.color"),
+                        itemsData.getTestData("smartwatches.smart1.size"))
                 .clickPlusBtn()
                 .clickAddToCartBtn()
                 .clickViewCartBtn();

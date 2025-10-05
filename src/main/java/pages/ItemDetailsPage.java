@@ -6,6 +6,10 @@ import org.openqa.selenium.ElementNotInteractableException;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 
 // this class contains all item details, condition, color, size (item options)
 // , also it's part of the home page because it contains the main elements from HomePage,
@@ -60,31 +64,23 @@ public class ItemDetailsPage extends HomePage{
         return this;
     }
 
-    public ItemDetailsPage chooseConnectivity(String connectivity) {
-        addOption(connectivity);
-        return this;
-    }
+    // choose all options at once
+    public ItemDetailsPage addAllOptions(String... options) {
 
-    public ItemDetailsPage chooseColor(String color) {
-        addOption(color);
-        return this;
-    }
+        List<String> optionsList = new ArrayList<>(Arrays.asList(options));
 
-    public ItemDetailsPage chooseSize(String size) {
-        addOption(size);
-        return this;
-    }
-
-    private void addOption(String option) {
-        By optionLocator = By.xpath("//label[@title='"+option+"']/input");
-        try {
-            driver.element().waitUntil(ExpectedConditions.visibilityOfElementLocated(optionLocator));
-            if (!driver.getDriver().findElement(optionLocator).isSelected()) {
-                driver.element().clickUsingJavascript(optionLocator);
+        for (String option : optionsList) {
+            By optionLocator = By.xpath("//label[@title='"+option+"']/input");
+            try {
+                driver.element().waitUntil(ExpectedConditions.visibilityOfElementLocated(optionLocator));
+                if (!driver.getDriver().findElement(optionLocator).isSelected()) {
+                    driver.element().clickUsingJavascript(optionLocator);
+                }
+            } catch (NoSuchElementException e) {
+                driver.element().verifyThat(optionLocator).doesNotExist().perform();
             }
-        } catch (NoSuchElementException e) {
-            driver.element().verifyThat(optionLocator).doesNotExist().perform();
         }
+        return this;
     }
 
 }
