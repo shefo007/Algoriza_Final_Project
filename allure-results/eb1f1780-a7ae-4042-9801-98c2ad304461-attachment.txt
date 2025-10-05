@@ -1,0 +1,18 @@
+[ReportManager] Post processing some properties to support platforms-specific restrictions. @05-10-2025 14:30:46.0211 PM
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @05-10-2025 14:30:46.0588 PM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.25". @05-10-2025 14:30:47.0148 PM
+[ReportManager] Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-port=59147, --start-maximized], extensions: []}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, webSocketUrl: true} @05-10-2025 14:30:47.0384 PM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @05-10-2025 14:30:47.0400 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @05-10-2025 14:30:47.0408 PM
+[ReportManager] Successfully Opened: "Windows | Chrome". @05-10-2025 14:31:09.0505 PM
+[ReportManager] Target URL: "https://cartlow.com/intl/en" @05-10-2025 14:31:10.0482 PM
+[ReportManager] Initial URL: "about:blank" @05-10-2025 14:31:10.0757 PM
+[ReportManager] Navigate to url "https://cartlow.com/intl/en". @05-10-2025 14:31:31.0173 PM
+[ReportManager] Click "Profile" @05-10-2025 14:31:45.0745 PM
+[ReportManager] Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(text(),'Account')])[1]}], kind=below}], root={xpath=//*[contains(.,"Sign In")]}}" @05-10-2025 14:31:48.0538 PM
+[ReportManager] Type "Enter mobile number or email" @05-10-2025 14:31:54.0353 PM
+[ReportManager] Click "By.xpath: //button/span[contains(text(), 'Continue')]" @05-10-2025 14:31:55.0292 PM
+[ReportManager] Type "Password*" @05-10-2025 14:31:56.0177 PM
+[ReportManager] Click "By.xpath: //button/span[contains(text(),'Sign In')]" @05-10-2025 14:31:56.0580 PM
+[ReportManager] Click "By.xpath: //div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]" @05-10-2025 14:32:05.0707 PM
+[ReportManager] Click "Relative Locator: {filters=[{args=[{xpath=//div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]}], kind=below}], root={xpath=//*[contains(.,"UAE")]}}" @05-10-2025 14:32:08.0348 PM

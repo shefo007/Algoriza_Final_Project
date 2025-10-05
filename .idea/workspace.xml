@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="91ed9a8a-aed3-466f-bcb8-550ef4b05893" name="Changes" comment="" />
+    <list default="true" id="91ed9a8a-aed3-466f-bcb8-550ef4b05893" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/05748e83-1998-4118-b2f1-e2da090a0f9f-attachment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1b7a40c1-d34c-4cd6-970b-97fd983d3c8b-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/1ca2baeb-97a4-4891-9af1-f00d335039d0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/301b9605-fd9c-4ce2-91fd-76fd3715f2f5-attachment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/31a0eded-6f04-45fc-b642-aad3ea935816-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/48d20a00-abb4-4793-bab0-6d9c2929b849-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/68f8d0de-4e9e-4177-8b0d-c1940d900b51-attachment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/69e98e4b-5cd8-45a2-87c2-4078d499419d-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/6d15e928-7831-4198-9038-046dd0b7788a-attachment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7a156138-11c6-40e5-ac14-ad34ecad2259-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7b9b4f49-b18f-4f74-a923-7eab3c81eced-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/7d1b73f3-b3b7-4a32-b227-30111e5bd344-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/816682ea-4fdf-4f63-89be-d860f475c850-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8a0abb83-1926-4445-94e2-523d79af9d0e-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/8a511b31-67de-4ba8-a6b6-4d8e327b0e7a-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/9cb79d34-24eb-460f-b9a8-90ce220bfe7e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/ad94780c-b35b-476b-abe2-1023ed83e367-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/c1f063ab-c6e3-43cb-b3eb-9fd6c494fb80-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/cfe84085-9052-4456-a3fa-4323427fbc6c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/d4583dde-fb35-4206-bdc5-f3e501d4a3b3-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/dda762f4-a8d7-4bb2-9f9f-a4762757fa57-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e3961a8a-4734-47ca-8db1-131fb135536c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/e99b5334-7b1c-4416-b15a-63c9a37b90d7-attachment.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/environment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/allure-results/environment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fa939d74-2cea-4795-abfc-06f76a1520ea-attachment.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fae03170-e052-46ae-876c-08eb6bd7f4c6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/fd866326-d69d-440c-a717-81085ef0b952-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/categories-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/duration-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/history-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/history.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-results/history/retry-trend.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/execution-summary/ExecutionSummaryReport_05-10-2025_12-24-13-0230-PM.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/META-INF/services/uuid" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testDataFiles/items.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testDataFiles/items.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +54,10 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -26,25 +67,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Algoriza_Final_Project [clean].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.TestClass.TestLocators.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestClass.TestLocators1.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestClass.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestClass.navigateToDuckDuckGoAndAssertBrowserTitleIsDisplayedCorrectly.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestScenario.E2ETest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestScenario.TestCase.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestScenario.TestCase2.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestScenario.cleanEnvironment.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TestScenario.executor&quot;: &quot;Run&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sheri/IdeaProjects/Algoriza_Final_Project/src/test/java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.Algoriza_Final_Project [clean].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.TestClass.TestLocators.executor": "Run",
+    "TestNG.TestClass.TestLocators1.executor": "Run",
+    "TestNG.TestClass.executor": "Run",
+    "TestNG.TestClass.navigateToDuckDuckGoAndAssertBrowserTitleIsDisplayedCorrectly.executor": "Run",
+    "TestNG.TestScenario.E2ETest.executor": "Run",
+    "TestNG.TestScenario.TestCase.executor": "Run",
+    "TestNG.TestScenario.TestCase2.executor": "Run",
+    "TestNG.TestScenario.cleanEnvironment.executor": "Run",
+    "TestNG.TestScenario.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Sheri/IdeaProjects/Algoriza_Final_Project/src/test/java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="pages" />
@@ -175,6 +217,19 @@
       <option name="presentableId" value="Default" />
       <updated>1759082208336</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1759662162097</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759662162097</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

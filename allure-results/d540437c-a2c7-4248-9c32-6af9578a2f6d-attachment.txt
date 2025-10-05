@@ -1,0 +1,42 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                 Test Method: 'testPackage.TestScenario.E2ETest'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Click "Laptops" @05-10-2025 14:32:40.0127 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air Laptop 8,2 A1932(13-Inch, 2019) Intel core i5, 1.6GHz, 8GB RAM, 128GB SSD , 1.5GB VRAM, FaceTime HD Camera, ENG KB , Space Grey". @05-10-2025 14:32:55.0183 PM
+[ReportManager] Get Text from element, text is "Dell Latitude E7440, Core i5-4th, 4GB RAM, HDD 500GB, 14.1 inches". @05-10-2025 14:32:55.0257 PM
+[ReportManager] Get Text from element, text is "DELL Latitude E6440 Intel Core i5-4th Generation 4GB RAM 500GB HDD". @05-10-2025 14:32:55.0323 PM
+[ReportManager] Get Text from element, text is "Dell Latitude 7480 Laptop, Core i5-7th Generation, 8GB RAM, 256GB SSD, 14-Inch". @05-10-2025 14:32:55.0386 PM
+[ReportManager] Get Text from element, text is "DELL Laptop Latitude E6440 Intel Core i5 4th Generation 4GB RAM 500GB HDD". @05-10-2025 14:32:55.0446 PM
+[ReportManager] Get Text from element, text is "Dell Latitude 7390 13.3" Inch FHD Touch Screen, X360 2 in 1 Laptop, Intel Core i7-8650U 1.90GHz up to 3.6GHz CPU, 16GB DDR4 RAM 512GB SSD, Windows 10, Black". @05-10-2025 14:32:55.0508 PM
+[ReportManager] Get Text from element, text is "Dell Latitude E7480 Laptop Core i5 7th Generation, 16GB RAM, 256GB SSD, 14-Inch, Intel HD Graphics, Windows - Black". @05-10-2025 14:32:55.0590 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 128GB SSD 1.5GB VRAM, ENG KB - Silver". @05-10-2025 14:32:55.0655 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 256GB SSD 1.5GB VRAM, ENG KB Silver". @05-10-2025 14:32:55.0730 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, 1.5GB VRAM, English/Arabic Keyboard, Silver". @05-10-2025 14:32:55.0785 PM
+[ReportManager] Get Text from element, text is "Apple MacBook air 8,1 (A1932 2018) Core i5 1.6GHz 13 inch, RAM 8GB, 128GB SSD 1.5GB VRAM, ENG KB Grey". @05-10-2025 14:32:55.0845 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold". @05-10-2025 14:32:55.0901 PM
+[ReportManager] Click "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Condition: Good ê 1,225.00 ê 3,354.00 63% OFF". @05-10-2025 14:32:56.0008 PM
+[ReportManager] Click "Add To Cart" @05-10-2025 14:33:10.0396 PM
+[ReportManager] Click "Smartwatches" @05-10-2025 14:33:14.0645 PM
+[ReportManager] Get Text from element, text is "Apple watch Series 4, 40mm GPS Space Grey Aluminium Case with Black Sport Band". @05-10-2025 14:33:27.0828 PM
+[ReportManager] Get Text from element, text is "Apple watch Series 4 (44mm, GPS) Space Grey Aluminum Case with Black Sport Band". @05-10-2025 14:33:27.0972 PM
+[ReportManager] Get Text from element, text is "Apple Watch Series 5, 40mm GPS, Space Gray Aluminum Case, Black Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch". @05-10-2025 14:33:28.0156 PM
+[ReportManager] Get Text from element, text is "Apple Watch Series 6, GPS + Cellular, 44mm Blue Aluminum Case, Deep Navy Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch". @05-10-2025 14:33:28.0451 PM
+[ReportManager] Get Text from element, text is "Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band". @05-10-2025 14:33:28.0688 PM
+[ReportManager] Click "TRUSTED SELLER Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Condition: Good ê 589.00 ê 1,199.00 51% OFF Delivery Fast Delivery, in 48 Hours". @05-10-2025 14:33:28.0908 PM
+[ReportManager] Javascript  click "Silver" @05-10-2025 14:33:46.0689 PM
+[ReportManager] Click "Increase Quantity" @05-10-2025 14:33:49.0480 PM
+[ReportManager] Click "Add To Cart" @05-10-2025 14:33:51.0147 PM
+[ReportManager] Click "View Cart" @05-10-2025 14:33:54.0167 PM
+[ReportManager] Get Text from element, text is "Dell Latitude 7490 Intel Core i7-8650U 14" FHD Display, 16GB RAM 512GB SSD, Windows 10 Pro". @05-10-2025 14:34:10.0352 PM
+[ReportManager] Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold". @05-10-2025 14:34:10.0713 PM
+[ReportManager] Click "Remove". @05-10-2025 14:34:11.0314 PM
+[ReportManager] Click "Agree" @05-10-2025 14:34:14.0043 PM
+[ReportManager] Click "Checkout" @05-10-2025 14:34:17.0053 PM
+[ReportManager] Assert that the browser title contains "Checkout". @05-10-2025 14:34:29.0824 PM
+[ReportManager] Expected "Checkout", and actual "Checkout" @05-10-2025 14:34:30.0279 PM
+[ReportManager] Successfully created attachment 'Screenshot - Assert_14-34-38-923_05102025' @05-10-2025 14:34:38.0931 PM
+[ReportManager] Expected "Checkout", and actual "Checkout" @05-10-2025 14:34:38.0936 PM
+[ReportManager] Assertion passed @05-10-2025 14:34:38.0948 PM

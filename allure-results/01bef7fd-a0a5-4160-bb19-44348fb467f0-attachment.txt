@@ -1,0 +1,516 @@
+[INFO ] 2025-10-05 14:30:18.613 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Project Structure... [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:30:18 PM[m 
+[INFO ] 2025-10-05 14:30:18.445 [] ReportManager - Initializing Project Structure...
+[INFO ] 2025-10-05 14:30:34.677 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded OpenCV "opencv_java490". [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:30:34 PM[m 
+[INFO ] 2025-10-05 14:30:34.676 [] ReportManager - Loaded OpenCV "opencv_java490".
+[INFO ] 2025-10-05 14:30:38.775 [main] ReportManager - TestNG run detected...[38;2;0;96;168;1m[INFO][m [mTestNG run detected... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:38 PM[m 
+[INFO ] 2025-10-05 14:30:38.775 [main] ReportManager - TestNG run detected...
+[INFO ] 2025-10-05 14:30:41.746 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m[TestNG] Running:
+[INFO ] 2025-10-05 14:30:41.757 [main] ReportManager -   C:\Users\Sheri\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+[INFO ] 2025-10-05 14:30:41.759 [main] ReportManager -  [m[90m| org.testng.internal.Utils[m [90m- main[m [90m- 02:30:41 PM[m 
+[INFO ] 2025-10-05 14:30:41.745 [main] Utils - [TestNG] Running:
+  C:\Users\Sheri\AppData\Local\JetBrains\IdeaIC2025.1\temp-testng-customsuite.xml
+
+[INFO ] 2025-10-05 14:30:42.509 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:30:42.514 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:42.516 [main] ReportManager -                                              Starting execution of suite setup configuration method                                             
+[INFO ] 2025-10-05 14:30:42.518 [main] ReportManager -                                           'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+[INFO ] 2025-10-05 14:30:42.524 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:42.526 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:42 PM[m 
+[INFO ] 2025-10-05 14:30:42.509 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:30:43.246 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitializing Properties... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:43 PM[m 
+[INFO ] 2025-10-05 14:30:43.245 [main] ReportManager - Initializing Properties...
+[INFO ] 2025-10-05 14:30:45.400 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:30:45.402 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:45.404 [main] ReportManager -                                           Starting execution of before every class configuration method                                          
+[INFO ] 2025-10-05 14:30:45.406 [main] ReportManager -                                                    'testPackage.TestScenario.beforeEveryClass'                                                   
+[INFO ] 2025-10-05 14:30:45.407 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:45.409 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.399 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                          Starting execution of before every class configuration method                                          
+                                                   'testPackage.TestScenario.beforeEveryClass'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:30:45.488 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded Test Data: "src/test/resources/testDataFiles/users.json". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.487 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/users.json".
+[INFO ] 2025-10-05 14:30:45.508 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Test Data - JSON' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.507 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-10-05 14:30:45.540 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded Test Data: "src/test/resources/testDataFiles/items.json". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.539 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/items.json".
+[INFO ] 2025-10-05 14:30:45.564 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Test Data - JSON' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.563 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-10-05 14:30:45.587 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded Test Data: "src/test/resources/testDataFiles/region.json". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.586 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/region.json".
+[INFO ] 2025-10-05 14:30:45.605 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Test Data - JSON' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.604 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-10-05 14:30:45.625 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mLoaded Test Data: "src/test/resources/testDataFiles/taps.json". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.623 [main] ReportManager - Loaded Test Data: "src/test/resources/testDataFiles/taps.json".
+[INFO ] 2025-10-05 14:30:45.640 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Test Data - JSON' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.639 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2025-10-05 14:30:45.693 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: beforeEveryClass' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.690 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: beforeEveryClass'
+[INFO ] 2025-10-05 14:30:45.926 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:30:45.928 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:45.934 [main] ReportManager -                                                 Starting execution of set up configuration method                                                
+[INFO ] 2025-10-05 14:30:45.937 [main] ReportManager -                                                         'testPackage.TestScenario.setUp'                                                        
+[INFO ] 2025-10-05 14:30:45.939 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:30:45.943 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:45 PM[m 
+[INFO ] 2025-10-05 14:30:45.924 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Starting execution of set up configuration method                                                
+                                                        'testPackage.TestScenario.setUp'                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:30:46.214 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mPost processing some properties to support platforms-specific restrictions. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:46 PM[m 
+[INFO ] 2025-10-05 14:30:46.211 [main] ReportManager - Post processing some properties to support platforms-specific restrictions.
+[INFO ] 2025-10-05 14:30:46.592 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSetting "targetOperatingSystem" property with "windows". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:46 PM[m 
+[INFO ] 2025-10-05 14:30:46.589 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2025-10-05 14:30:47.153 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSetting "screenshotParams_scalingFactor" property with "1.25". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:47 PM[m 
+[INFO ] 2025-10-05 14:30:47.148 [main] ReportManager - Setting "screenshotParams_scalingFactor" property with "1.25".
+[INFO ] 2025-10-05 14:30:47.386 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mCapabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-port=59147, --start-maximized], extensions: []}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, webSocketUrl: true} [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:47 PM[m 
+[INFO ] 2025-10-05 14:30:47.385 [main] ReportManager - Capabilities {browserName: chrome, goog:chromeOptions: {args: [--remote-debugging-port=59147, --start-maximized], extensions: []}, pageLoadStrategy: none, timeouts: {pageLoad: 30000, script: 30000}, webSocketUrl: true}
+[INFO ] 2025-10-05 14:30:47.404 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAttempting to run locally on: "Windows | Chrome". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:47 PM[m 
+[INFO ] 2025-10-05 14:30:47.403 [main] ReportManager - Attempting to run locally on: "Windows | Chrome".
+[INFO ] 2025-10-05 14:30:47.411 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mIdentifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:30:47 PM[m 
+[INFO ] 2025-10-05 14:30:47.409 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[DEBUG] 2025-10-05 14:31:03.189 [] BasicClientConnectionManager - Get connection for route {s}->https://api.github.com:443
+[DEBUG] 2025-10-05 14:31:03.449 [] DefaultClientConnectionOperator - Connecting to api.github.com:443
+[DEBUG] 2025-10-05 14:31:08.745 [] RequestAddCookies - CookieSpec selected: ignoreCookies
+[DEBUG] 2025-10-05 14:31:08.799 [] RequestAuthCache - Auth cache not set in the context
+[DEBUG] 2025-10-05 14:31:08.811 [] RequestTargetAuthentication - Target auth state: UNCHALLENGED
+[DEBUG] 2025-10-05 14:31:08.830 [] RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+[DEBUG] 2025-10-05 14:31:08.837 [] DefaultClientConnection - Sending request: GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2025-10-05 14:31:08.865 [] wire -  >> "GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.890 [] wire -  >> "Accept: */*[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.892 [] wire -  >> "Host: api.github.com[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.894 [] wire -  >> "Connection: Keep-Alive[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.897 [] wire -  >> "User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.1)[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.900 [] wire -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.907 [] wire -  >> "[\r][\n]"
+[DEBUG] 2025-10-05 14:31:08.908 [] headers - >> GET /repos/ShaftHQ/SHAFT_ENGINE/releases/latest HTTP/1.1
+[DEBUG] 2025-10-05 14:31:08.910 [] headers - >> Accept: */*
+[DEBUG] 2025-10-05 14:31:08.912 [] headers - >> Host: api.github.com
+[DEBUG] 2025-10-05 14:31:08.914 [] headers - >> Connection: Keep-Alive
+[DEBUG] 2025-10-05 14:31:08.916 [] headers - >> User-Agent: Apache-HttpClient/4.5.13 (Java/21.0.1)
+[DEBUG] 2025-10-05 14:31:08.921 [] headers - >> Accept-Encoding: gzip,deflate
+[DEBUG] 2025-10-05 14:31:09.199 [] wire -  << "HTTP/1.1 200 OK[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.218 [] wire -  << "Date: Sun, 05 Oct 2025 11:31:08 GMT[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.220 [] wire -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.222 [] wire -  << "Cache-Control: public, max-age=60, s-maxage=60[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.224 [] wire -  << "Vary: Accept,Accept-Encoding, Accept, X-Requested-With[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.226 [] wire -  << "ETag: W/"6e4486806e5e414e66776615a3450f349603fb7c134ac752338621049d77e29d"[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.228 [] wire -  << "Last-Modified: Sun, 28 Sep 2025 07:54:25 GMT[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.230 [] wire -  << "X-GitHub-Media-Type: github.v3; format=json[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.231 [] wire -  << "x-github-api-version-selected: 2022-11-28[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.233 [] wire -  << "Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.235 [] wire -  << "Access-Control-Allow-Origin: *[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.236 [] wire -  << "Strict-Transport-Security: max-age=31536000; includeSubdomains; preload[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.238 [] wire -  << "X-Frame-Options: deny[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.240 [] wire -  << "X-Content-Type-Options: nosniff[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.242 [] wire -  << "X-XSS-Protection: 0[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.245 [] wire -  << "Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.246 [] wire -  << "Content-Security-Policy: default-src 'none'[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.249 [] wire -  << "Content-Encoding: gzip[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.252 [] wire -  << "Server: github.com[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.254 [] wire -  << "Accept-Ranges: bytes[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.256 [] wire -  << "X-RateLimit-Limit: 60[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.259 [] wire -  << "X-RateLimit-Remaining: 58[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.262 [] wire -  << "X-RateLimit-Reset: 1759666632[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.264 [] wire -  << "X-RateLimit-Resource: core[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.266 [] wire -  << "X-RateLimit-Used: 2[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.267 [] wire -  << "Content-Length: 1811[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.268 [] wire -  << "X-GitHub-Request-Id: 3FDA:2DC906:8BFC97:7E5E9E:68E256F8[\r][\n]"
+[DEBUG] 2025-10-05 14:31:09.276 [] wire -  << "[\r][\n]"
+[INFO ] 2025-10-05 14:31:09.286 [main] ReportManager - [33;1m[WARN][m [mOct 05, 2025 2:31:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:09 PM[m 
+[WARN ] 2025-10-05 14:31:09.281 [main] ReportManager - Oct 05, 2025 2:31:09 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+[INFO ] 2025-10-05 14:31:09.294 [main] ReportManager - [33;1m[WARN][m [mWARNING: Unable to find an exact match for CDP version 141, returning the closest version; found: 139; Please update to a Selenium version that supports CDP version 141 [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:09 PM[m 
+[WARN ] 2025-10-05 14:31:09.291 [main] ReportManager - WARNING: Unable to find an exact match for CDP version 141, returning the closest version; found: 139; Please update to a Selenium version that supports CDP version 141
+[DEBUG] 2025-10-05 14:31:09.299 [] DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+[DEBUG] 2025-10-05 14:31:09.301 [] headers - << HTTP/1.1 200 OK
+[DEBUG] 2025-10-05 14:31:09.302 [] headers - << Date: Sun, 05 Oct 2025 11:31:08 GMT
+[DEBUG] 2025-10-05 14:31:09.304 [] headers - << Content-Type: application/json; charset=utf-8
+[DEBUG] 2025-10-05 14:31:09.306 [] headers - << Cache-Control: public, max-age=60, s-maxage=60
+[DEBUG] 2025-10-05 14:31:09.312 [] headers - << Vary: Accept,Accept-Encoding, Accept, X-Requested-With
+[DEBUG] 2025-10-05 14:31:09.314 [] headers - << ETag: W/"6e4486806e5e414e66776615a3450f349603fb7c134ac752338621049d77e29d"
+[DEBUG] 2025-10-05 14:31:09.316 [] headers - << Last-Modified: Sun, 28 Sep 2025 07:54:25 GMT
+[DEBUG] 2025-10-05 14:31:09.317 [] headers - << X-GitHub-Media-Type: github.v3; format=json
+[DEBUG] 2025-10-05 14:31:09.319 [] headers - << x-github-api-version-selected: 2022-11-28
+[DEBUG] 2025-10-05 14:31:09.321 [] headers - << Access-Control-Expose-Headers: ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset
+[DEBUG] 2025-10-05 14:31:09.324 [] headers - << Access-Control-Allow-Origin: *
+[DEBUG] 2025-10-05 14:31:09.326 [] headers - << Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+[DEBUG] 2025-10-05 14:31:09.328 [] headers - << X-Frame-Options: deny
+[DEBUG] 2025-10-05 14:31:09.330 [] headers - << X-Content-Type-Options: nosniff
+[DEBUG] 2025-10-05 14:31:09.331 [] headers - << X-XSS-Protection: 0
+[DEBUG] 2025-10-05 14:31:09.332 [] headers - << Referrer-Policy: origin-when-cross-origin, strict-origin-when-cross-origin
+[DEBUG] 2025-10-05 14:31:09.333 [] headers - << Content-Security-Policy: default-src 'none'
+[DEBUG] 2025-10-05 14:31:09.335 [] headers - << Content-Encoding: gzip
+[DEBUG] 2025-10-05 14:31:09.336 [] headers - << Server: github.com
+[DEBUG] 2025-10-05 14:31:09.338 [] headers - << Accept-Ranges: bytes
+[DEBUG] 2025-10-05 14:31:09.342 [] headers - << X-RateLimit-Limit: 60
+[DEBUG] 2025-10-05 14:31:09.344 [] headers - << X-RateLimit-Remaining: 58
+[DEBUG] 2025-10-05 14:31:09.346 [] headers - << X-RateLimit-Reset: 1759666632
+[DEBUG] 2025-10-05 14:31:09.348 [] headers - << X-RateLimit-Resource: core
+[DEBUG] 2025-10-05 14:31:09.350 [] headers - << X-RateLimit-Used: 2
+[DEBUG] 2025-10-05 14:31:09.352 [] headers - << Content-Length: 1811
+[DEBUG] 2025-10-05 14:31:09.355 [] headers - << X-GitHub-Request-Id: 3FDA:2DC906:8BFC97:7E5E9E:68E256F8
+[INFO ] 2025-10-05 14:31:09.508 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully Opened: "Windows | Chrome". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:09 PM[m 
+[INFO ] 2025-10-05 14:31:09.506 [main] ReportManager - Successfully Opened: "Windows | Chrome".
+[DEBUG] 2025-10-05 14:31:09.802 [] RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+[DEBUG] 2025-10-05 14:31:09.831 [] wire -  << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xb5]Y[0x8b]n[0xd3]H[0x14][0xfd][0x15]+[0x8][0xad][0x84][0xf0][0xc4]v[0x9c][0xc4][0xb1][0x84]X[0xa0]eAZ[0x8a]xH+-[0xa0]hlO[0x9c]im[0x8f][0x99][0x19]7[0x84][0x8a][0xdf]3c[0xe7])"
+[DEBUG] 2025-10-05 14:31:09.859 [] wire -  << "[0xb6][0x5]b[0xa4]6v\[0xfb][0xcc][0xf5]}[0x9c]{[0xee][0xf4]f[0xd0][0xc8]b[0x10][0xf][0x96]Z[0xd7]*[0x1e][0xe]i[0xcd]I[0xce][0xf5][0xb2]IH*[0xca][0xa1]d[0xb5]P[0xc3]wK[0xba][0xd0]/[0xde][0xc][0xdf][0xbd]x[0xf2][0xfc][0xfd][0xfc][0xfc][0xe2][0xaf][0x97][0x17][0xe7][0xf8]S[0xc1][0xa8]bj[0x18][0x8c][0xbd][0xf1]x[0xe2]O[0xfd][0xc1][0xc3][0x1]U[0x8a]i5[0xef][0xf]s[0xd8]"[0x2][0xba][0xa9][0xb]A[0xb3]#[0xe8][0xf6][0xa2][0xfa]e[0x93];[0xf8][0x9b][0xc7][0x15]-[0xd9][0xc3][0x82]&[0xac][0xf8][0x86][0xb5][0x96][0xba],[0x8e]V[0xda]s[0xca][0xed][0xee][0xd0]4[0x1f][0xce][0xc8][0x88][0x4][0x1e][0x1c]3[0xb]"[0xc0][0xf1]l[0x10]o[0xbd][0x4]'5z)[0xe4] [0xbe][0x19][0x14]"[0xe7][0x15][0xbc][0xdf][0x82][0xbb]4[0xd5]\T[0xea]C"[0xf4][0xa7][0xee][0xb1][0xd0][0x8f]fQ[0x10][0x5][0xf][0x7][0x95][0xc8][0xd8][0xdc] [\r]^[0x9d][0xbd][0x9a][0xbc])g[0xde][0xc5][0xd9]y[0xf8][0xfa]}[0xbe]~}[0xf6][0xf2][0x91][0xf1][0xfd]5[0xd5]T[0x1e][0xfb][0xde]^[0xdc]8[0xa8]QL[0xa6][0xa2][0xd2][0xac][0xd2]6[0xbc][0xbc][0x1a][0xfa][0xe3][0xd1]$z|[0xfd]([0x4]B.;[0xc][0xbb][0x8c][0xf1][0xf9]m[0xb9]a[0xc0][0xd4][0xf0][0xd0][0xf4][0xfb][0xe3][0xa7]0[0xfe][0xfe][0xf8][0xec]N'[0xd2][0xba]>~[0x18][0xcf],DQ[0x88][0x15]p[0x8f]_[0xe3]0-o]z[0xb8][0x5][0xd9][0x2][0xf2]*?[0x1d][0x10] 7C[0xa1][0x97][0xc]>[0xc6][0xab][0x9b]<[0xc9][0xb9][0xba]+[0xdb]o7[0xd5][0x2][0xdc][0xc0][0x89]J#[0xb6][0x6]R!\[0x92][0x1d][0xe7][0xf9]QY[0xde][0xe][0xda]A[0xc0][0xd8]U[0x5];ol[0x15][[0xec]&Q[0xa9][0xe4][0xb5][0xcd][0xb2]S[0x1c]r[0x0][0x4]`!sZ[0xf1][0xaf][0xf4]d`[0x0])[0xe0]Y[0xda]9[0xc5]@[0xb][0x0] v[0x8d]T?[0x9][0xa9]E[0xb8][0x19][0xd6][0x92]_[0xd3]tm[0xdc](Y[0xca][0xf8]5bt:[0xfa][0x11][0x14][0xc0][0xf5][0xba]f([0xbe][0xa7]B[0xe3][0x8b][0x89][0xf3][0xfc][0x9a][0xb3][0xd5][0xbc][0xbb]\7I[0xc1]S[0x13]J[0xae][0xd9][0x9c]f[0xa5][0xa1][0x8f][0x5]-[0x14][0xfb][0xb6][0xcf][0x10]o[0xcf][0xe7]W[0xab][0xb3][0xd7][0xcf][0xfe]b[0xef]'*|=]G[0x1b]h[0x9a][0xcf][\r][0xcf][0x1][0xfe][0x88][0xa0][0x90]s9[0xd3]sPB[0xc9]5WK[0xdc]QR@[0x3][0xf3][0xbb][0xf7]g[0x12][\r][0xa1][[0x18][0xf4]V[0x96][0x8d][0xa6]I[0x1]`k[0xca][0xc3]A-Y[0xd7][0x1e][0xb6][0x97]R[0xc9][0xa8][0x86][0xcf]([0x9e][0x1b][0x18]nt[0xbd][0x99][0x1b]D[0xef][0xbd]i<[0xe]c/[0xfc][0xd7][0xbc]n[0x9d][0xdd]rO06[0xf7]X[0xf][0xa8][0xe5][0xff]"[0xb5]wu]#[0xfe][0xf0][0xc9][0xbc][0xb6]Lhq[0xcc][0xe7]?[0xde][0xe8][0xba][0xe7][0x8f]I[0xfd]+[0xaf]O[0x82][0xed][0x9e]?[0x86]MD[0xb6][0x86][0x87][0xee][0xdd]s[0xfe]YR[0xfd][0x87]r[0x9e]-i[0x95][0xb3][0xec]c[0xf5][0xc0]y[0xda][0x94][0xb5][0xd3]5[0x89]![0x1a]mS[0xbb][0xa6]+8[0xb])J't[0xb4]p[0xc6]N[0xb2]v[0xfe][0xcc]X[0xcd][0xaa][0x8c][0x82][0x89]m+qx[0xe5]l[0xfa][0xfb]]m[0xac]n[0x8a]b[0x18]x[0xd1]x[0xbb][0x1e][0x17]$m[0xd2][0xa6]L[0x98][0x8c]7'n[0x82][0x5][0xed][0xaa]S[0x12][0xe0][0xc7],[0x8d]CD[0xfc][0xbe][0xd6][0xf][0xb7][0xeb]W)[0xaf]MW[0xd8][0x8][0x8e][0xae]K[0xb6][0xcb][0xfb][0xc4][0x8f][0x88]g[0x96][0xf7][0xd1]pq[0xd6][0xd3][0xeb][0x7][0xfb][0xaf][0xdf][0xf9],[0x11][0x15][0xcf][0xa9]L9[0x8d]W,[0xc9][0xc0][0x7]L[0x96][0xb4][0xa2]9[0x93][0xad]1[0x13][0x12][0xb4][0xb6]L[0xd0][0xfe]{[0xf3][0x84][0xbf]5[0x5][0xe4]H[0xd6][0xb4],bU[0xd1]+f[0xce][0xda]u[0x3]bc[0x1f][0x90][0xbe][0xa2]?[0x9d]m[0xd7][0x4]%[0x90][0x5]U[0x9a][0xc9]/eA.iz[0xa5]DEP[0xa6][0xd4]0R[0xdc]]p7[0x17][0xdc][0xcb][0xec]*[0xda]X[0xe5][0xcf][0xda][0xcc][0x8]z[\r][0x8d]w[0xe0][0x8f]K%[0x9a]:[0xb6][0x9f][0x9b][0x8c][0x8][0x90][0x14]]F )z[0xca][0x88][0xe9][0xd4],[0xfb]$[0xcb][0x1c][0xd1][0xb6]O[0xb3]B[0xc6][0x95][0xa1]=[0xa7][0x6][0xdd][0xac][0x84][0xcc][0x9c][0xa4]I[0xcc]wZe[0xe][0xc4][0xf1][0x95][0x93]1[0xcd][0xac][0xa6]3%[0xf8]l[0x89][0x82]a[0xd6][0x9e]WbI[0x13]|p[0xf6]+[0xb5]iM[0xb1]\`2[0xa2][0x96][0xe2][0x12][0x8b][0x14][0xa2]L[0xc4]U[0xdc][0x1e][0xf6][0x8a]c[0x14][0xb5][0xbe]@[0x9d][0x84][0xbd][0x95][0xc7][0xc4]X[0xf0]L[0xd4][0xbc][0x10][0x1a]o[0xa0][0xb4]lZ[0xe9][0xda][0xc3][0xdb]E[0xfb][0xa5]w;[0xf3][0x18][0xbe][0xd9]0O_[0x81][0x8e]l[0xee][0x9f]W`[0xdd][0x94]9[0xa5]H8[0x2][0xca]![0x99]eK[0xbc]NJk[0x8a][0x8b][0xe8][0x93]L9+[0x8c]J[0xce][0x93][0xba][0xe6]M[0x9]K[0x9a]t[0xb9][0xa1]g[0x9b][0x3][0x92]-[0xf0][0x90][0x0]=[0xe0][0x97][0x97][0x88][0x14]T[0x3][0xae]Rp[0xb3]AX[0x9f][0xee][0xae][0x99]-[0x87][0x5][0xff][0xe2]&R\[0xb1][0xca][0xd5][0xc][0x8a][0xb2][0x7]\K;4[0xcb]\[0x85][0xa4]uS[0xb4][0x19]|[0x80][0xf1]@w=[0xa0][~}Y[0xd6][0x5]+![0xd0][0xe0],Q[0xad]K[0xd1](Gc[0xaa],[0x99][0x96]kg[0x1][0xbd][0xd0]H[0xd6][0xba][0x18]E[0xe7][0x8a]F[0xa3][0xa0][0x14][0xcf]+k[0xc0].[0xfd]~[0xb6][0xb9][0xcd][0xe][0x9a][0xdb][0x8f][0xb3][0xbb]!u[0xa4][0x9b]a[0xf7][0xbe][0xb2]m[0xb6][0xcb]vS[0xcb]H[0xad]t[0xc9]HI![I]4[0x98][0xe]Ul[0xbf][0xb9][\n]"
+[DEBUG] 2025-10-05 14:31:09.863 [] wire -  << "[0xbe]Xp[0xc9][0xdc][0xf6]r[[0xe1]#2&#c[0x93]9[0x9]{[0xa2][0xba][0xd9]![0xbf][0x1c][0xd8][0xb4][0xb1]"[0xde][0x9a]c[0xf2][0xad][0xca][0xa7]9[0x96]l,[0xdd][0x99]f[0xc4]jZ[0x12]#[0xef][0xa5]6[0xbf][0xb4][0x88][0x91][0x91][0x95]v/1[0xba][0xda][0xe4][0xdf][0x18]3[0x86]K[0xac]20'=[0xc5][0xcb][0xf7]v[0xa9]sG[0xbc][0x8c]=[0x99]H[0x8f][0xc2][0xe5][0xfb][0x9b]x[0xf9]F+[0xf4][0xa2]V|o'[0x96]~[0xa0]![0xa0][0xb]X[0xb9]d[0x1a]Bon[0xd9][0xe9]%[0x13][0xa3]\[0x88][0xbc]`$o[0xe0][0x83][0xd8]~v[0xf9]1"![0x89][0xdc]KT[0xb5][0xc9]Y[0x93][0xb4][0x9e][0xfd][0xd6][0x93][0x1f]vR[0x9][0xa2][0xf5]3&[0x17]M[0x9][0x94]?*'n[0xf];[0xdd][\n]"
+[DEBUG] 2025-10-05 14:31:09.865 [] wire -  << "M2k[0xcb]9 [0xa3][0xfe][0x84][0xe3]l[0xa7][0x9c][0xf6][0xf2][0x3][0xdb]<[0xa8][0xe4][0x9c][0xe0][0x18]^[0xa2]E[0xe3][0xd3]U[0xc5]"[0xbc][0xc]\t[0x85][0xad][0x8a][0xb][0xc6][0x1b][0x8b]p[0xd6]Wh[0xfc]C[0xbd]t[0xb][0xc3] rh[0xe8]L[0x1e][0xa7]l[0xd8][0x96][0x11][0xd8]"
+[DEBUG] 2025-10-05 14:31:09.868 [] wire -  << "/[0xec]K[0xd5][0xfa][0xde]w[0x8a]z[0xc9]h[0xc1]*t[0xd2]x{[0xe6]Bh[0xef][0xa8]e[0xb2]a[0xba]i_[0x9]s[0xa8]s[0x8a]Z[0xec][0xcc]3&[0x93][0xfe]\[0xf2][0xdd]V[0xf0][0xbd][0xd4]I[0x5]J[0xc6]N_[0xc8][0xe2][0xdf][0x91]3[0xde][0xae][0x3][0xdc]9[0xfd]E[0xdb][0xe9]o[0xd6][0x1b][0xa1][0xf9][0xbb][0xec]0U[0x84][0x89][0xc3]N[0x1b]$[0x5][0xd1]K0~wt[0xbb][0xbd][0x0][0x94][0x96][0xdb]6[0xc9][0xfd][0xde][0xe8][0x91]n2[0xf4]H[0x8f][0x96][0x1d][0xf2])[0xd2]+[0xae]E[0xdc][0x1d][0xa1][0x90]6[0x91]AX[0xcc][0xaa]6G[0xfa][0x1b]L}[0xff][0x88][0xea][0x85][0xd2][0xb9]d[0xea]s[0x11]c[0xbf][0xab];mS#[0xc][0xc8][0x94]L[0x8d][0x1][0xf6],[0xea][0xa9]d[0xfc][0xd1]A7[0xa6][0xba][0xc0][0xec][0xc3]iE[0x4][0xe5][0xb1]Z[0xd1][0x1c][0xd3][0xb0]+[0xd9][0xe7][0x6][0x9d][0xd8][0xbd][0xa6][0x5][0xc7]d([0xcc][0x15]lJ*#[0x1a][0xb2]M[0xe6][0x86][0xdb][0xcc][\r]'[0xfd]e[0x8e]mD[0x1f][0x9e]w[0xda][0xf1]mk[0xc8][0xa7]xOk[0x1a][0x9a][0x93]l[0xc9]*[0x85][0x1][0xde]i*[0xae]!:[0x8d]f6"[0xfd]-[0xce][0x9e]t[0xa3]Lj^[0xcd]8[0x10][0x9a][0x8c]c[0xab][0xcf][0xf1]=[0xef]>4[0x8]6\[0xe][0x94][0xf0]/[0xb]Q[0xdf][0xb7]%[0xbf][0xbf][0x17]w[0xb2][0xb4][0xf6]}p[0xda][0xc7][\n]"
+[DEBUG] 2025-10-05 14:31:09.871 [] wire -  << "[0xdb]G[0x17]l[0x85][0x11][\r][0x5][0xc3][0x93][0x6]!Pf[0xa9][0xad]h.)[0xde][0x2][[0xd9][0x1c][0xb3][0x9][0x97]J[0xe3][0x8d][0xba];[0xbb]a[0xf5]'[0xf7][0x8b][0x8c][0xa4][0xc6][0x2][0xf][0x9e]c[0xfb][0xa8][0xdb][0xb1][0x2]s=x[0x10][0xff][0xb0]67a[0xa1][0x92][0xed][0xb6][0xc3][0xa2]`D[0x8]J[0xf7][0xe0]?)fZ[0xb0][0x9b][0xd7][0xa9]h*[0xec]$[0x6][0xdf][0xfe][0x3][0x94][0xc3][0xe3][0xc6][0xc1][0x1a][0x0][0x0]"
+[DEBUG] 2025-10-05 14:31:09.874 [] RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+[INFO ] 2025-10-05 14:31:10.485 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mTarget URL: "https://cartlow.com/intl/en" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:10 PM[m 
+[INFO ] 2025-10-05 14:31:10.484 [main] ReportManager - Target URL: "https://cartlow.com/intl/en"
+[INFO ] 2025-10-05 14:31:10.758 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mInitial URL: "about:blank" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:10 PM[m 
+[INFO ] 2025-10-05 14:31:10.757 [main] ReportManager - Initial URL: "about:blank"
+[DEBUG] 2025-10-05 14:31:11.692 [] BasicClientConnectionManager - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@78ac144b
+[DEBUG] 2025-10-05 14:31:11.694 [] BasicClientConnectionManager - Connection can be kept alive indefinitely
+[INFO ] 2025-10-05 14:31:26.978 [] ReportManager - [38;2;0;96;168;1m[INFO][m [mYou're using the latest engine version "9.3.20250928". ￰ﾟﾑﾍ [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:26 PM[m 
+[INFO ] 2025-10-05 14:31:26.959 [] ReportManager - You're using the latest engine version "9.3.20250928". 👍
+[INFO ] 2025-10-05 14:31:31.046 [] ReportManager - [33;1m[WARN][m [mException in thread "" org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.shaft.gui.browser.internal.JavaScriptWaitManager$$Lambda/0x000001f3ab6a7728@2e96c19c (tried for 10 second(s) with 100 milliseconds interval) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.043 [] ReportManager - Exception in thread "" org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.shaft.gui.browser.internal.JavaScriptWaitManager$$Lambda/0x000001f3ab6a7728@2e96c19c (tried for 10 second(s) with 100 milliseconds interval)
+[INFO ] 2025-10-05 14:31:31.061 [] ReportManager - [33;1m[WARN][m [mBuild info: version: '4.35.0', revision: '1c58e5028b' [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.060 [] ReportManager - Build info: version: '4.35.0', revision: '1c58e5028b'
+[INFO ] 2025-10-05 14:31:31.072 [] ReportManager - [33;1m[WARN][m [mSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1' [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.065 [] ReportManager - System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+[INFO ] 2025-10-05 14:31:31.076 [] ReportManager - [33;1m[WARN][m [mDriver info: driver.version: unknown [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.075 [] ReportManager - Driver info: driver.version: unknown
+[INFO ] 2025-10-05 14:31:31.096 [] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:265) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.096 [] ReportManager - 	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:265)
+[INFO ] 2025-10-05 14:31:31.106 [] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.105 [] ReportManager - 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+[INFO ] 2025-10-05 14:31:31.123 [] ReportManager - [33;1m[WARN][m [m	at com.shaft.gui.browser.internal.JavaScriptWaitManager.waitForDocumentReadyState(JavaScriptWaitManager.java:56) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.116 [] ReportManager - 	at com.shaft.gui.browser.internal.JavaScriptWaitManager.waitForDocumentReadyState(JavaScriptWaitManager.java:56)
+[INFO ] 2025-10-05 14:31:31.128 [] ReportManager - [33;1m[WARN][m [m	at com.shaft.gui.browser.internal.JavaScriptWaitManager.lambda$waitForLazyLoading$2(JavaScriptWaitManager.java:29) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.128 [] ReportManager - 	at com.shaft.gui.browser.internal.JavaScriptWaitManager.lambda$waitForLazyLoading$2(JavaScriptWaitManager.java:29)
+[INFO ] 2025-10-05 14:31:31.132 [] ReportManager - [33;1m[WARN][m [m	at java.base/java.lang.VirtualThread.run(VirtualThread.java:309) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:31:31 PM[m 
+[WARN ] 2025-10-05 14:31:31.132 [] ReportManager - 	at java.base/java.lang.VirtualThread.run(VirtualThread.java:309)
+[INFO ] 2025-10-05 14:31:31.175 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mNavigate to url "https://cartlow.com/intl/en". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:31 PM[m 
+[INFO ] 2025-10-05 14:31:31.174 [main] ReportManager - Navigate to url "https://cartlow.com/intl/en".
+[INFO ] 2025-10-05 14:31:45.747 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Profile" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:45 PM[m 
+[INFO ] 2025-10-05 14:31:45.746 [main] ReportManager - Click "Profile"
+[DEBUG] 2025-10-05 14:31:47.644 [Finalizer] DefaultClientConnection - Connection 0.0.0.0:59170<->140.82.121.5:443 closed
+[INFO ] 2025-10-05 14:31:48.545 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Relative Locator: {filters=[{args=[{xpath=(//span[contains(text(),'Account')])[1]}], kind=below}], root={xpath=//*[contains(.,"Sign In")]}}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:48 PM[m 
+[INFO ] 2025-10-05 14:31:48.539 [main] ReportManager - Click "Relative Locator: {filters=[{args=[{xpath=(//span[contains(text(),'Account')])[1]}], kind=below}], root={xpath=//*[contains(.,"Sign In")]}}"
+[INFO ] 2025-10-05 14:31:54.354 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mType "Enter mobile number or email" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:54 PM[m 
+[INFO ] 2025-10-05 14:31:54.354 [main] ReportManager - Type "Enter mobile number or email"
+[INFO ] 2025-10-05 14:31:55.294 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "By.xpath: //button/span[contains(text(), 'Continue')]" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:55 PM[m 
+[INFO ] 2025-10-05 14:31:55.293 [main] ReportManager - Click "By.xpath: //button/span[contains(text(), 'Continue')]"
+[INFO ] 2025-10-05 14:31:56.178 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mType "Password*" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:56 PM[m 
+[INFO ] 2025-10-05 14:31:56.177 [main] ReportManager - Type "Password*"
+[INFO ] 2025-10-05 14:31:56.581 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "By.xpath: //button/span[contains(text(),'Sign In')]" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:31:56 PM[m 
+[INFO ] 2025-10-05 14:31:56.580 [main] ReportManager - Click "By.xpath: //button/span[contains(text(),'Sign In')]"
+[INFO ] 2025-10-05 14:32:05.716 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "By.xpath: //div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:05 PM[m 
+[INFO ] 2025-10-05 14:32:05.708 [main] ReportManager - Click "By.xpath: //div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]"
+[INFO ] 2025-10-05 14:32:08.350 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Relative Locator: {filters=[{args=[{xpath=//div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]}], kind=below}], root={xpath=//*[contains(.,"UAE")]}}" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:08 PM[m 
+[INFO ] 2025-10-05 14:32:08.349 [main] ReportManager - Click "Relative Locator: {filters=[{args=[{xpath=//div[@class='container relative']//button[not(contains(@type,'submit'))]/span[contains(text(),'INTL')]}], kind=below}], root={xpath=//*[contains(.,"UAE")]}}"
+[INFO ] 2025-10-05 14:32:24.324 [] ReportManager - [33;1m[WARN][m [mException in thread "" org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.shaft.gui.browser.internal.JavaScriptWaitManager$$Lambda/0x000001f3ab6a7728@2e96c19c (tried for 10 second(s) with 100 milliseconds interval) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.323 [] ReportManager - Exception in thread "" org.openqa.selenium.TimeoutException: Expected condition failed: waiting for com.shaft.gui.browser.internal.JavaScriptWaitManager$$Lambda/0x000001f3ab6a7728@2e96c19c (tried for 10 second(s) with 100 milliseconds interval)
+[INFO ] 2025-10-05 14:32:24.326 [] ReportManager - [33;1m[WARN][m [mBuild info: version: '4.35.0', revision: '1c58e5028b' [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.326 [] ReportManager - Build info: version: '4.35.0', revision: '1c58e5028b'
+[INFO ] 2025-10-05 14:32:24.329 [] ReportManager - [33;1m[WARN][m [mSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1' [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.328 [] ReportManager - System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+[INFO ] 2025-10-05 14:32:24.331 [] ReportManager - [33;1m[WARN][m [mDriver info: driver.version: unknown [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.330 [] ReportManager - Driver info: driver.version: unknown
+[INFO ] 2025-10-05 14:32:24.334 [] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:265) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.334 [] ReportManager - 	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:265)
+[INFO ] 2025-10-05 14:32:24.336 [] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.336 [] ReportManager - 	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+[INFO ] 2025-10-05 14:32:24.341 [] ReportManager - [33;1m[WARN][m [m	at com.shaft.gui.browser.internal.JavaScriptWaitManager.waitForDocumentReadyState(JavaScriptWaitManager.java:56) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.340 [] ReportManager - 	at com.shaft.gui.browser.internal.JavaScriptWaitManager.waitForDocumentReadyState(JavaScriptWaitManager.java:56)
+[INFO ] 2025-10-05 14:32:24.344 [] ReportManager - [33;1m[WARN][m [m	at com.shaft.gui.browser.internal.JavaScriptWaitManager.lambda$waitForLazyLoading$2(JavaScriptWaitManager.java:29) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.343 [] ReportManager - 	at com.shaft.gui.browser.internal.JavaScriptWaitManager.lambda$waitForLazyLoading$2(JavaScriptWaitManager.java:29)
+[INFO ] 2025-10-05 14:32:24.346 [] ReportManager - [33;1m[WARN][m [m	at java.base/java.lang.VirtualThread.run(VirtualThread.java:309) [m[90m| com.shaft.tools.io.ReportManager[m [90m- [m [90m- 02:32:24 PM[m 
+[WARN ] 2025-10-05 14:32:24.346 [] ReportManager - 	at java.base/java.lang.VirtualThread.run(VirtualThread.java:309)
+[INFO ] 2025-10-05 14:32:25.070 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: setUp' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:25 PM[m 
+[INFO ] 2025-10-05 14:32:25.068 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: setUp'
+[INFO ] 2025-10-05 14:32:28.283 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:32:28.328 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:32:28.331 [main] ReportManager -                                         Starting Execution: '1 out of 1' test cases in the current suite                                        
+[INFO ] 2025-10-05 14:32:28.333 [main] ReportManager -                                                  Test Method: 'testPackage.TestScenario.E2ETest'                                                 
+[INFO ] 2025-10-05 14:32:28.338 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:32:28.346 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:28 PM[m 
+[INFO ] 2025-10-05 14:32:28.260 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                 Test Method: 'testPackage.TestScenario.E2ETest'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:32:40.128 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Laptops" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:40 PM[m 
+[INFO ] 2025-10-05 14:32:40.128 [main] ReportManager - Click "Laptops"
+[INFO ] 2025-10-05 14:32:55.184 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air Laptop 8,2 A1932(13-Inch, 2019) Intel core i5, 1.6GHz, 8GB RAM, 128GB SSD , 1.5GB VRAM, FaceTime HD Camera, ENG KB , Space Grey". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.184 [main] ReportManager - Get Text from element, text is "Apple MacBook Air Laptop 8,2 A1932(13-Inch, 2019) Intel core i5, 1.6GHz, 8GB RAM, 128GB SSD , 1.5GB VRAM, FaceTime HD Camera, ENG KB , Space Grey".
+[INFO ] 2025-10-05 14:32:55.257 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Dell Latitude E7440, Core i5-4th, 4GB RAM, HDD 500GB, 14.1 inches". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.257 [main] ReportManager - Get Text from element, text is "Dell Latitude E7440, Core i5-4th, 4GB RAM, HDD 500GB, 14.1 inches".
+[INFO ] 2025-10-05 14:32:55.323 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "DELL Latitude E6440 Intel Core i5-4th Generation 4GB RAM 500GB HDD". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.323 [main] ReportManager - Get Text from element, text is "DELL Latitude E6440 Intel Core i5-4th Generation 4GB RAM 500GB HDD".
+[INFO ] 2025-10-05 14:32:55.387 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Dell Latitude 7480 Laptop, Core i5-7th Generation, 8GB RAM, 256GB SSD, 14-Inch". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.386 [main] ReportManager - Get Text from element, text is "Dell Latitude 7480 Laptop, Core i5-7th Generation, 8GB RAM, 256GB SSD, 14-Inch".
+[INFO ] 2025-10-05 14:32:55.447 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "DELL Laptop Latitude E6440 Intel Core i5 4th Generation 4GB RAM 500GB HDD". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.447 [main] ReportManager - Get Text from element, text is "DELL Laptop Latitude E6440 Intel Core i5 4th Generation 4GB RAM 500GB HDD".
+[INFO ] 2025-10-05 14:32:55.508 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Dell Latitude 7390 13.3" Inch FHD Touch Screen, X360 2 in 1 Laptop, Intel Core i7-8650U 1.90GHz up to 3.6GHz CPU, 16GB DDR4 RAM 512GB SSD, Windows 10, Black". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.508 [main] ReportManager - Get Text from element, text is "Dell Latitude 7390 13.3" Inch FHD Touch Screen, X360 2 in 1 Laptop, Intel Core i7-8650U 1.90GHz up to 3.6GHz CPU, 16GB DDR4 RAM 512GB SSD, Windows 10, Black".
+[INFO ] 2025-10-05 14:32:55.591 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Dell Latitude E7480 Laptop Core i5 7th Generation, 16GB RAM, 256GB SSD, 14-Inch, Intel HD Graphics, Windows - Black". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.590 [main] ReportManager - Get Text from element, text is "Dell Latitude E7480 Laptop Core i5 7th Generation, 16GB RAM, 256GB SSD, 14-Inch, Intel HD Graphics, Windows - Black".
+[INFO ] 2025-10-05 14:32:55.655 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 128GB SSD 1.5GB VRAM, ENG KB - Silver". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.655 [main] ReportManager - Get Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 128GB SSD 1.5GB VRAM, ENG KB - Silver".
+[INFO ] 2025-10-05 14:32:55.730 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 256GB SSD 1.5GB VRAM, ENG KB Silver". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.730 [main] ReportManager - Get Text from element, text is "Apple MacBook Air 6,1 (A1465 Early 2013) Core i5 1.3GHz 11 inch, RAM 4GB, 256GB SSD 1.5GB VRAM, ENG KB Silver".
+[INFO ] 2025-10-05 14:32:55.786 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 ￢ﾀﾓ Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, 1.5GB VRAM, English/Arabic Keyboard, Silver". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.785 [main] ReportManager - Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, 1.5GB VRAM, English/Arabic Keyboard, Silver".
+[INFO ] 2025-10-05 14:32:55.846 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook air 8,1 (A1932 2018) Core i5 1.6GHz 13 inch, RAM 8GB, 128GB SSD 1.5GB VRAM, ENG KB Grey". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.845 [main] ReportManager - Get Text from element, text is "Apple MacBook air 8,1 (A1932 2018) Core i5 1.6GHz 13 inch, RAM 8GB, 128GB SSD 1.5GB VRAM, ENG KB Grey".
+[INFO ] 2025-10-05 14:32:55.902 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 ￢ﾀﾓ Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:55 PM[m 
+[INFO ] 2025-10-05 14:32:55.901 [main] ReportManager - Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold".
+[INFO ] 2025-10-05 14:32:56.009 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Apple MacBook Air 13-Inch (2018) A1932 ￢ﾀﾓ Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Apple MacBook Air 13-Inch (2018) A1932 ￢ﾀﾓ Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Condition: Good ￃﾪ 1,225.00 ￃﾪ 3,354.00 63% OFF". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:32:56 PM[m 
+[INFO ] 2025-10-05 14:32:56.009 [main] ReportManager - Click "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold Condition: Good ê 1,225.00 ê 3,354.00 63% OFF".
+[INFO ] 2025-10-05 14:33:10.401 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Add To Cart" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:10 PM[m 
+[INFO ] 2025-10-05 14:33:10.397 [main] ReportManager - Click "Add To Cart"
+[INFO ] 2025-10-05 14:33:14.649 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Smartwatches" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:14 PM[m 
+[INFO ] 2025-10-05 14:33:14.648 [main] ReportManager - Click "Smartwatches"
+[INFO ] 2025-10-05 14:33:27.830 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple watch Series 4, 40mm GPS Space Grey Aluminium Case with Black Sport Band". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:27 PM[m 
+[INFO ] 2025-10-05 14:33:27.828 [main] ReportManager - Get Text from element, text is "Apple watch Series 4, 40mm GPS Space Grey Aluminium Case with Black Sport Band".
+[INFO ] 2025-10-05 14:33:27.974 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple watch Series 4 (44mm, GPS) Space Grey Aluminum Case with Black Sport Band". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:27 PM[m 
+[INFO ] 2025-10-05 14:33:27.973 [main] ReportManager - Get Text from element, text is "Apple watch Series 4 (44mm, GPS) Space Grey Aluminum Case with Black Sport Band".
+[INFO ] 2025-10-05 14:33:28.158 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple Watch Series 5, 40mm GPS, Space Gray Aluminum Case, Black Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:28 PM[m 
+[INFO ] 2025-10-05 14:33:28.157 [main] ReportManager - Get Text from element, text is "Apple Watch Series 5, 40mm GPS, Space Gray Aluminum Case, Black Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch".
+[INFO ] 2025-10-05 14:33:28.453 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple Watch Series 6, GPS + Cellular, 44mm Blue Aluminum Case, Deep Navy Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:28 PM[m 
+[INFO ] 2025-10-05 14:33:28.452 [main] ReportManager - Get Text from element, text is "Apple Watch Series 6, GPS + Cellular, 44mm Blue Aluminum Case, Deep Navy Sport Band, Blood Oxygen Monitor, Heart Rate Tracker, Fitness Tracker, Swimproof Smartwatch".
+[INFO ] 2025-10-05 14:33:28.690 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:28 PM[m 
+[INFO ] 2025-10-05 14:33:28.689 [main] ReportManager - Get Text from element, text is "Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band".
+[INFO ] 2025-10-05 14:33:28.909 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "TRUSTED SELLER Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Condition: Good ￃﾪ 589.00 ￃﾪ 1,199.00 51% OFF Delivery Fast Delivery, in 48 Hours". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:28 PM[m 
+[INFO ] 2025-10-05 14:33:28.908 [main] ReportManager - Click "TRUSTED SELLER Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Apple Watch Series 6 (40mm, GPS + Cellular) Gold Aluminum Case with Pink Sand Sport Band Condition: Good ê 589.00 ê 1,199.00 51% OFF Delivery Fast Delivery, in 48 Hours".
+[INFO ] 2025-10-05 14:33:46.692 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mJavascript  click "Silver" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:46 PM[m 
+[INFO ] 2025-10-05 14:33:46.691 [main] ReportManager - Javascript  click "Silver"
+[INFO ] 2025-10-05 14:33:49.481 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Increase Quantity" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:49 PM[m 
+[INFO ] 2025-10-05 14:33:49.480 [main] ReportManager - Click "Increase Quantity"
+[INFO ] 2025-10-05 14:33:51.148 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Add To Cart" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:51 PM[m 
+[INFO ] 2025-10-05 14:33:51.148 [main] ReportManager - Click "Add To Cart"
+[INFO ] 2025-10-05 14:33:54.168 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "View Cart" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:33:54 PM[m 
+[INFO ] 2025-10-05 14:33:54.167 [main] ReportManager - Click "View Cart"
+[INFO ] 2025-10-05 14:34:10.358 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Dell Latitude 7490 Intel Core i7-8650U 14" FHD Display, 16GB RAM 512GB SSD, Windows 10 Pro". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:10 PM[m 
+[INFO ] 2025-10-05 14:34:10.353 [main] ReportManager - Get Text from element, text is "Dell Latitude 7490 Intel Core i7-8650U 14" FHD Display, 16GB RAM 512GB SSD, Windows 10 Pro".
+[INFO ] 2025-10-05 14:34:10.715 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mGet Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 ￢ﾀﾓ Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:10 PM[m 
+[INFO ] 2025-10-05 14:34:10.714 [main] ReportManager - Get Text from element, text is "Apple MacBook Air 13-Inch (2018) A1932 – Intel Core i5 1.6GHz, 8GB RAM, 128GB SSD, English/Arabic Keyboard, Gold".
+[INFO ] 2025-10-05 14:34:11.315 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Remove". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:11 PM[m 
+[INFO ] 2025-10-05 14:34:11.315 [main] ReportManager - Click "Remove".
+[INFO ] 2025-10-05 14:34:14.045 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Agree" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:14 PM[m 
+[INFO ] 2025-10-05 14:34:14.044 [main] ReportManager - Click "Agree"
+[INFO ] 2025-10-05 14:34:17.055 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Checkout" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:17 PM[m 
+[INFO ] 2025-10-05 14:34:17.054 [main] ReportManager - Click "Checkout"
+[INFO ] 2025-10-05 14:34:29.826 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssert that the browser title contains "Checkout". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:29 PM[m 
+[INFO ] 2025-10-05 14:34:29.825 [main] ReportManager - Assert that the browser title contains "Checkout".
+[DEBUG] 2025-10-05 14:34:30.279 [main] ReportManager - Expected "Checkout", and actual "Checkout"
+[INFO ] 2025-10-05 14:34:38.932 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'Screenshot - Assert_14-34-38-923_05102025' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:38 PM[m 
+[INFO ] 2025-10-05 14:34:38.932 [main] ReportManager - Successfully created attachment 'Screenshot - Assert_14-34-38-923_05102025'
+[INFO ] 2025-10-05 14:34:38.937 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mExpected "Checkout", and actual "Checkout" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:38 PM[m 
+[INFO ] 2025-10-05 14:34:38.937 [main] ReportManager - Expected "Checkout", and actual "Checkout"
+[INFO ] 2025-10-05 14:34:38.949 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mAssertion passed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:38 PM[m 
+[INFO ] 2025-10-05 14:34:38.948 [main] ReportManager - Assertion passed
+[INFO ] 2025-10-05 14:34:38.977 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: E2ETest' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:38 PM[m 
+[INFO ] 2025-10-05 14:34:38.976 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: E2ETest'
+[INFO ] 2025-10-05 14:34:38.979 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:34:38.979 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:38.980 [main] ReportManager -                                       Finished Execution of Test Method: 'testPackage.TestScenario.E2ETest'                                      
+[INFO ] 2025-10-05 14:34:38.980 [main] ReportManager -                                                               Test Status: 'Passed'                                                              
+[INFO ] 2025-10-05 14:34:38.981 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:38.981 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:38 PM[m 
+[INFO ] 2025-10-05 14:34:38.978 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                      Finished Execution of Test Method: 'testPackage.TestScenario.E2ETest'                                      
+                                                              Test Status: 'Passed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:34:39.039 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:34:39.039 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:39.040 [main] ReportManager -                                           Starting execution of clean environment configuration method                                          
+[INFO ] 2025-10-05 14:34:39.041 [main] ReportManager -                                                    'testPackage.TestScenario.cleanEnvironment'                                                   
+[INFO ] 2025-10-05 14:34:39.042 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:39.043 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:39 PM[m 
+[INFO ] 2025-10-05 14:34:39.038 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                          Starting execution of clean environment configuration method                                          
+                                                   'testPackage.TestScenario.cleanEnvironment'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:34:39.861 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mPerform navigation action "Navigate BACK to https://cartlow.com/uae/en/checkout/cart". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:39 PM[m 
+[INFO ] 2025-10-05 14:34:39.860 [main] ReportManager - Perform navigation action "Navigate BACK to https://cartlow.com/uae/en/checkout/cart".
+[INFO ] 2025-10-05 14:34:40.375 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Remove". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:40 PM[m 
+[INFO ] 2025-10-05 14:34:40.375 [main] ReportManager - Click "Remove".
+[INFO ] 2025-10-05 14:34:41.254 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Agree" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:41 PM[m 
+[INFO ] 2025-10-05 14:34:41.253 [main] ReportManager - Click "Agree"
+[INFO ] 2025-10-05 14:34:41.716 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Remove". [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:41 PM[m 
+[INFO ] 2025-10-05 14:34:41.715 [main] ReportManager - Click "Remove".
+[INFO ] 2025-10-05 14:34:42.999 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mClick "Agree" [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:42 PM[m 
+[INFO ] 2025-10-05 14:34:42.998 [main] ReportManager - Click "Agree"
+[INFO ] 2025-10-05 14:34:43.017 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: cleanEnvironment' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:43 PM[m 
+[INFO ] 2025-10-05 14:34:43.017 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: cleanEnvironment'
+[INFO ] 2025-10-05 14:34:43.073 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:34:43.075 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:43.076 [main] ReportManager -                                                  Starting execution of quit configuration method                                                 
+[INFO ] 2025-10-05 14:34:43.078 [main] ReportManager -                                                          'testPackage.TestScenario.quit'                                                         
+[INFO ] 2025-10-05 14:34:43.080 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:43.082 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:43 PM[m 
+[INFO ] 2025-10-05 14:34:43.070 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Starting execution of quit configuration method                                                 
+                                                         'testPackage.TestScenario.quit'                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:34:44.451 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [mOct 05, 2025 2:34:44 PM org.openqa.selenium.remote.http.WebSocket$Listener onError [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.449 [JdkHttpClient-2-4] ReportManager - Oct 05, 2025 2:34:44 PM org.openqa.selenium.remote.http.WebSocket$Listener onError
+[INFO ] 2025-10-05 14:34:44.454 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [mWARNING: Connection reset [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.454 [JdkHttpClient-2-4] ReportManager - WARNING: Connection reset
+[INFO ] 2025-10-05 14:34:44.456 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [mjava.net.SocketException: Connection reset [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.456 [JdkHttpClient-2-4] ReportManager - java.net.SocketException: Connection reset
+[INFO ] 2025-10-05 14:34:44.459 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.458 [JdkHttpClient-2-4] ReportManager - 	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:401)
+[INFO ] 2025-10-05 14:34:44.462 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.462 [JdkHttpClient-2-4] ReportManager - 	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:434)
+[INFO ] 2025-10-05 14:34:44.466 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.465 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube.readAvailable(SocketTube.java:1178)
+[INFO ] 2025-10-05 14:34:44.468 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.468 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.read(SocketTube.java:841)
+[INFO ] 2025-10-05 14:34:44.471 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.471 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowTask.run(SocketTube.java:181)
+[INFO ] 2025-10-05 14:34:44.474 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.473 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.common.SequentialScheduler$SchedulableTask.run(SequentialScheduler.java:207)
+[INFO ] 2025-10-05 14:34:44.476 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.475 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:280)
+[INFO ] 2025-10-05 14:34:44.481 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.481 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.common.SequentialScheduler.runOrSchedule(SequentialScheduler.java:233)
+[INFO ] 2025-10-05 14:34:44.484 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.484 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$InternalReadSubscription.signalReadable(SocketTube.java:782)
+[INFO ] 2025-10-05 14:34:44.486 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.486 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube$InternalReadPublisher$ReadEvent.signalEvent(SocketTube.java:965)
+[INFO ] 2025-10-05 14:34:44.489 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.488 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.SocketTube$SocketFlowEvent.handle(SocketTube.java:253)
+[INFO ] 2025-10-05 14:34:44.494 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.493 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.handleEvent(HttpClientImpl.java:1467)
+[INFO ] 2025-10-05 14:34:44.496 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.496 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.lambda$run$3(HttpClientImpl.java:1412)
+[INFO ] 2025-10-05 14:34:44.498 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.498 [JdkHttpClient-2-4] ReportManager - 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[INFO ] 2025-10-05 14:34:44.500 [JdkHttpClient-2-4] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412) [m[90m| com.shaft.tools.io.ReportManager[m [90m- JdkHttpClient-2-4[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.500 [JdkHttpClient-2-4] ReportManager - 	at java.net.http/jdk.internal.net.http.HttpClientImpl$SelectorManager.run(HttpClientImpl.java:1412)
+[INFO ] 2025-10-05 14:34:44.744 [main] ReportManager - [33;1m[WARN][m [mOct 05, 2025 2:34:44 PM org.openqa.selenium.remote.http.jdk.JdkHttpClient close [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.744 [main] ReportManager - Oct 05, 2025 2:34:44 PM org.openqa.selenium.remote.http.jdk.JdkHttpClient close
+[INFO ] 2025-10-05 14:34:44.747 [main] ReportManager - [33;1m[WARN][m [mWARNING: failed to close the websocket: org.openqa.selenium.remote.http.jdk.JdkHttpClient$4@13967a64 [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.747 [main] ReportManager - WARNING: failed to close the websocket: org.openqa.selenium.remote.http.jdk.JdkHttpClient$4@13967a64
+[INFO ] 2025-10-05 14:34:44.749 [main] ReportManager - [33;1m[WARN][m [morg.openqa.selenium.WebDriverException: java.io.IOException: Output closed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.749 [main] ReportManager - org.openqa.selenium.WebDriverException: java.io.IOException: Output closed
+[INFO ] 2025-10-05 14:34:44.752 [main] ReportManager - [33;1m[WARN][m [mBuild info: version: '4.35.0', revision: '1c58e5028b' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.752 [main] ReportManager - Build info: version: '4.35.0', revision: '1c58e5028b'
+[INFO ] 2025-10-05 14:34:44.755 [main] ReportManager - [33;1m[WARN][m [mSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.755 [main] ReportManager - System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+[INFO ] 2025-10-05 14:34:44.757 [main] ReportManager - [33;1m[WARN][m [mDriver info: driver.version: SHAFT$GUI$WebDriver [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.756 [main] ReportManager - Driver info: driver.version: SHAFT$GUI$WebDriver
+[INFO ] 2025-10-05 14:34:44.759 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.send(JdkHttpClient.java:325) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.758 [main] ReportManager - 	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.send(JdkHttpClient.java:325)
+[INFO ] 2025-10-05 14:34:44.763 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.close(JdkHttpClient.java:344) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.762 [main] ReportManager - 	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.close(JdkHttpClient.java:344)
+[INFO ] 2025-10-05 14:34:44.767 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.close(JdkHttpClient.java:520) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.766 [main] ReportManager - 	at org.openqa.selenium.remote.http.jdk.JdkHttpClient.close(JdkHttpClient.java:520)
+[INFO ] 2025-10-05 14:34:44.770 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.bidi.Connection.close(Connection.java:267) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.769 [main] ReportManager - 	at org.openqa.selenium.bidi.Connection.close(Connection.java:267)
+[INFO ] 2025-10-05 14:34:44.773 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.bidi.BiDi.close(BiDi.java:41) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.772 [main] ReportManager - 	at org.openqa.selenium.bidi.BiDi.close(BiDi.java:41)
+[INFO ] 2025-10-05 14:34:44.775 [main] ReportManager - [33;1m[WARN][m [m	at java.base/java.util.Optional.ifPresent(Optional.java:178) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.775 [main] ReportManager - 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[INFO ] 2025-10-05 14:34:44.778 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:438) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.777 [main] ReportManager - 	at org.openqa.selenium.remote.RemoteWebDriver.close(RemoteWebDriver.java:438)
+[INFO ] 2025-10-05 14:34:44.781 [main] ReportManager - [33;1m[WARN][m [m	at com.shaft.driver.internal.DriverFactory.DriverFactoryHelper.closeDriver(DriverFactoryHelper.java:279) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.781 [main] ReportManager - 	at com.shaft.driver.internal.DriverFactory.DriverFactoryHelper.closeDriver(DriverFactoryHelper.java:279)
+[INFO ] 2025-10-05 14:34:44.787 [main] ReportManager - [33;1m[WARN][m [m	at com.shaft.driver.internal.DriverFactory.DriverFactoryHelper.closeDriver(DriverFactoryHelper.java:261) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.787 [main] ReportManager - 	at com.shaft.driver.internal.DriverFactory.DriverFactoryHelper.closeDriver(DriverFactoryHelper.java:261)
+[INFO ] 2025-10-05 14:34:44.790 [main] ReportManager - [33;1m[WARN][m [m	at com.shaft.driver.SHAFT$GUI$WebDriver.quit(SHAFT.java:54) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.790 [main] ReportManager - 	at com.shaft.driver.SHAFT$GUI$WebDriver.quit(SHAFT.java:54)
+[INFO ] 2025-10-05 14:34:44.794 [main] ReportManager - [33;1m[WARN][m [m	at basetest.DriverManager.quitDriver(DriverManager.java:19) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.794 [main] ReportManager - 	at basetest.DriverManager.quitDriver(DriverManager.java:19)
+[INFO ] 2025-10-05 14:34:44.796 [main] ReportManager - [33;1m[WARN][m [m	at basetest.BaseTest.quit(BaseTest.java:57) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.796 [main] ReportManager - 	at basetest.BaseTest.quit(BaseTest.java:57)
+[INFO ] 2025-10-05 14:34:44.798 [main] ReportManager - [33;1m[WARN][m [m	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.798 [main] ReportManager - 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+[INFO ] 2025-10-05 14:34:44.800 [main] ReportManager - [33;1m[WARN][m [m	at java.base/java.lang.reflect.Method.invoke(Method.java:580) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.799 [main] ReportManager - 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+[INFO ] 2025-10-05 14:34:44.802 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.802 [main] ReportManager - 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+[INFO ] 2025-10-05 14:34:44.804 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.804 [main] ReportManager - 	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+[INFO ] 2025-10-05 14:34:44.807 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.807 [main] ReportManager - 	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+[INFO ] 2025-10-05 14:34:44.810 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.810 [main] ReportManager - 	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+[INFO ] 2025-10-05 14:34:44.813 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.812 [main] ReportManager - 	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassConfigurations(TestMethodWorker.java:238)
+[INFO ] 2025-10-05 14:34:44.815 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.815 [main] ReportManager - 	at org.testng.internal.invokers.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:223)
+[INFO ] 2025-10-05 14:34:44.827 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.826 [main] ReportManager - 	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:137)
+[INFO ] 2025-10-05 14:34:44.834 [main] ReportManager - [33;1m[WARN][m [m	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.830 [main] ReportManager - 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+[INFO ] 2025-10-05 14:34:44.839 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestRunner.privateRun(TestRunner.java:741) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.839 [main] ReportManager - 	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+[INFO ] 2025-10-05 14:34:44.844 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestRunner.run(TestRunner.java:616) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.844 [main] ReportManager - 	at org.testng.TestRunner.run(TestRunner.java:616)
+[INFO ] 2025-10-05 14:34:44.847 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.846 [main] ReportManager - 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+[INFO ] 2025-10-05 14:34:44.849 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.849 [main] ReportManager - 	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+[INFO ] 2025-10-05 14:34:44.854 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.853 [main] ReportManager - 	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+[INFO ] 2025-10-05 14:34:44.856 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.856 [main] ReportManager - 	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+[INFO ] 2025-10-05 14:34:44.858 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.858 [main] ReportManager - 	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+[INFO ] 2025-10-05 14:34:44.860 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.860 [main] ReportManager - 	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+[INFO ] 2025-10-05 14:34:44.862 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.862 [main] ReportManager - 	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+[INFO ] 2025-10-05 14:34:44.865 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.864 [main] ReportManager - 	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+[INFO ] 2025-10-05 14:34:44.868 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestNG.runSuites(TestNG.java:1112) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.868 [main] ReportManager - 	at org.testng.TestNG.runSuites(TestNG.java:1112)
+[INFO ] 2025-10-05 14:34:44.871 [main] ReportManager - [33;1m[WARN][m [m	at org.testng.TestNG.run(TestNG.java:1079) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.870 [main] ReportManager - 	at org.testng.TestNG.run(TestNG.java:1079)
+[INFO ] 2025-10-05 14:34:44.874 [main] ReportManager - [33;1m[WARN][m [m	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.874 [main] ReportManager - 	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+[INFO ] 2025-10-05 14:34:44.877 [main] ReportManager - [33;1m[WARN][m [m	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.877 [main] ReportManager - 	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+[INFO ] 2025-10-05 14:34:44.879 [main] ReportManager - [33;1m[WARN][m [mCaused by: java.io.IOException: Output closed [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.879 [main] ReportManager - Caused by: java.io.IOException: Output closed
+[INFO ] 2025-10-05 14:34:44.881 [main] ReportManager - [33;1m[WARN][m [m	at java.net.http/jdk.internal.net.http.websocket.WebSocketImpl.sendClose(WebSocketImpl.java:313) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.881 [main] ReportManager - 	at java.net.http/jdk.internal.net.http.websocket.WebSocketImpl.sendClose(WebSocketImpl.java:313)
+[INFO ] 2025-10-05 14:34:44.883 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.lambda$send$2(JdkHttpClient.java:290) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.883 [main] ReportManager - 	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.lambda$send$2(JdkHttpClient.java:290)
+[INFO ] 2025-10-05 14:34:44.887 [main] ReportManager - [33;1m[WARN][m [m	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.send(JdkHttpClient.java:315) [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.887 [main] ReportManager - 	at org.openqa.selenium.remote.http.jdk.JdkHttpClient$4.send(JdkHttpClient.java:315)
+[INFO ] 2025-10-05 14:34:44.890 [main] ReportManager - [33;1m[WARN][m [m	... 35 more [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:44 PM[m 
+[WARN ] 2025-10-05 14:34:44.890 [main] ReportManager - 	... 35 more
+[INFO ] 2025-10-05 14:34:46.250 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully Closed Driver. [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:46 PM[m 
+[INFO ] 2025-10-05 14:34:46.250 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2025-10-05 14:34:46.257 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Current Method log: quit' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:46 PM[m 
+[INFO ] 2025-10-05 14:34:46.257 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: quit'
+[INFO ] 2025-10-05 14:34:46.268 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [m
+[INFO ] 2025-10-05 14:34:46.268 [main] ReportManager - [0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:46.269 [main] ReportManager -                                            Starting execution of engine tear down configuration method                                           
+[INFO ] 2025-10-05 14:34:46.269 [main] ReportManager -                                         'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+[INFO ] 2025-10-05 14:34:46.269 [main] ReportManager - ------------------------------------------------------------------------------------------------------------------------------------------------
+[INFO ] 2025-10-05 14:34:46.270 [main] ReportManager - [0m [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:46 PM[m 
+[INFO ] 2025-10-05 14:34:46.268 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine tear down configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTearDown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2025-10-05 14:34:46.273 [main] ReportManager - [38;2;0;96;168;1m[INFO][m [mSuccessfully created attachment 'SHAFT Engine Logs - Execution log' [m[90m| com.shaft.tools.io.ReportManager[m [90m- main[m [90m- 02:34:46 PM[m 
+[INFO ] 2025-10-05 14:34:46.273 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'

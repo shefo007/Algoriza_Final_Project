@@ -1,0 +1,5 @@
+[ReportManager] Perform navigation action "Navigate BACK to https://cartlow.com/uae/en/checkout/cart". @05-10-2025 14:34:39.0859 PM
+[ReportManager] Click "Remove". @05-10-2025 14:34:40.0375 PM
+[ReportManager] Click "Agree" @05-10-2025 14:34:41.0253 PM
+[ReportManager] Click "Remove". @05-10-2025 14:34:41.0715 PM
+[ReportManager] Click "Agree" @05-10-2025 14:34:42.0998 PM

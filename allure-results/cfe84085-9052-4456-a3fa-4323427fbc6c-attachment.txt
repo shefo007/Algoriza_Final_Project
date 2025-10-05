@@ -1,8 +1,0 @@
-[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/users.json". @05-10-2025 12:20:27.0935 PM
-[ReportManager] Successfully created attachment 'Test Data - JSON' @05-10-2025 12:20:27.0960 PM
-[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/items.json". @05-10-2025 12:20:27.0995 PM
-[ReportManager] Successfully created attachment 'Test Data - JSON' @05-10-2025 12:20:28.0072 PM
-[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/region.json". @05-10-2025 12:20:28.0095 PM
-[ReportManager] Successfully created attachment 'Test Data - JSON' @05-10-2025 12:20:28.0131 PM
-[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/taps.json". @05-10-2025 12:20:28.0175 PM
-[ReportManager] Successfully created attachment 'Test Data - JSON' @05-10-2025 12:20:28.0186 PM
